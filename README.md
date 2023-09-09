@@ -16,3 +16,10 @@
 ![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/fe489fd0-5658-42cf-94af-9812e8c0157e)
 ![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/ac13d1aa-c401-44e8-b3b8-d13878d9f120)
 ![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/bcdc157d-5844-4edd-a734-c1fc46abc34b)
+
+### Activity 5
+![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/94ef4594-41bf-4fa0-b237-af768c02f634)
+![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/9da8f972-67ad-4f98-8a5e-f3bd074f9aa4)
+![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/dbb6fc62-ee22-4b5e-b7a9-17a42998ddf8)
+![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/2b3cb1a8-8411-403a-9cbb-8a6e7c72952c)
+![image](https://github.com/sop-kim/ECE444-F2023-Assignment1/assets/77212828/eec077e4-bbb4-4f47-a92e-df2aa75c600b)
